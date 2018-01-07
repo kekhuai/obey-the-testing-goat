@@ -1,3 +1,4 @@
 [submodule "superlists"]
 	path = superlists
 	url = https://github.com/kekhuay/superlists.git
+        branch = master
